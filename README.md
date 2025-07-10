@@ -1,4 +1,7 @@
-! [loge].(https://github.com/ArshiaHanzo/ArshiaHanzo/blob/main/1.jpg).
+<p align="center">
+  <img src="https://github.com/ArshiaHanzo/ArshiaHanzo/blob/main/1.jpg" alt="GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm arshiahanzo</h1>
 <h3 align="center">A passionate backend and solftwre developer from Iran</h3>
 
