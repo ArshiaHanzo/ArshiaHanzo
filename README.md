@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArshiaHanzo/ArshiaHanzo/blob/main/1.jpg" alt="GitHub Banner" width="100%" />
+  <img src="[https://github.com/ArshiaHanzo/ArshiaHanzo/blob/main/1.jpg](https://github.com/ArshiaHanzo/ArshiaHanzo/blob/main/c3c6b6ce-cccc-4b8c-aa47-dce8a9bf52f8%20copy.jpg)" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm arshiahanzo</h1>
