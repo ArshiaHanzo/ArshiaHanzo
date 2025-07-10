@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[(https://github.com/ArshiaHanzo/ArshiaHanzo/blob/main/22.jpg)" alt="GitHub Banner" width="100%" />
+  <img src="https://github.com/ArshiaHanzo/ArshiaHanzo/blob/main/22.jpg" alt="GitHub Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm arshiahanzo</h1>
